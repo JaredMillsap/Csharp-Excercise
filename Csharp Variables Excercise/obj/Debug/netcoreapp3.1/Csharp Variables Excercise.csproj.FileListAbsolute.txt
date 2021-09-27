@@ -1,0 +1,14 @@
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\bin\Debug\netcoreapp3.1\Csharp Variables Excercise.exe
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\bin\Debug\netcoreapp3.1\Csharp Variables Excercise.deps.json
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\bin\Debug\netcoreapp3.1\Csharp Variables Excercise.runtimeconfig.json
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\bin\Debug\netcoreapp3.1\Csharp Variables Excercise.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\bin\Debug\netcoreapp3.1\Csharp Variables Excercise.dll
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\bin\Debug\netcoreapp3.1\Csharp Variables Excercise.pdb
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\obj\Debug\netcoreapp3.1\Csharp Variables Excercise.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\obj\Debug\netcoreapp3.1\Csharp Variables Excercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\obj\Debug\netcoreapp3.1\Csharp Variables Excercise.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\obj\Debug\netcoreapp3.1\Csharp Variables Excercise.AssemblyInfo.cs
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\obj\Debug\netcoreapp3.1\Csharp Variables Excercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\obj\Debug\netcoreapp3.1\Csharp Variables Excercise.dll
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\obj\Debug\netcoreapp3.1\Csharp Variables Excercise.pdb
+C:\Users\Student\Desktop\Repository\Csharp Variables Excercise\Csharp Variables Excercise\obj\Debug\netcoreapp3.1\Csharp Variables Excercise.genruntimeconfig.cache
